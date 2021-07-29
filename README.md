@@ -1,19 +1,7 @@
-#### 从命令行创建一个新的仓库
+该程序是用来在文件中筛选三国武将的属性的。
 
-```bash
-touch README.md
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://bdgit.educoder.net/pghs975uc/Markma-Sanguo-Hero-Select.git
-git push -u origin master
+有关该项目资料的查询：https://www.wolai.com/81653LDk4k71WzqBnokQ5r?theme=light
 
-```
+我的其他项目资料：https://www.wolai.com/k3a8LkCjN8xnEKTvKYPqum?theme=light
 
-#### 从命令行推送已经创建的仓库
-
-```bash
-git remote add origin https://bdgit.educoder.net/pghs975uc/Markma-Sanguo-Hero-Select.git
-git push -u origin master
-
-```
+​								  https://www.wolai.com/tqqpCNJ3U7jUHCPx13Qorx?theme=light
